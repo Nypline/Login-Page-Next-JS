@@ -11,7 +11,7 @@ const Register = () => {
         </div>
         <div className="flex-1 h-screen flex justify-center items-center">
           <div className="w-[60%] h-[85%] flex justify-between flex-col">
-            <Image width={176} height={176} src="/logo.png" alt="Logo" />
+            <Image width={176} height={176} src="./logo.png" alt="Logo" />
             <div>
               <h2 className="font-semibold text-3xl">Let’s get started</h2>
               <p className="font-light text-base text-[#A2A1A8]">
